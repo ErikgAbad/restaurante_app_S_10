@@ -1,0 +1,12 @@
+[
+    {
+        "codigo": "P001",
+        "titulo": "Arroz",
+        "precio": 2.5
+    },
+    {
+        "codigo": "P002",
+        "titulo": "Azúcar",
+        "precio": 1.8
+    }
+]
